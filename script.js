@@ -75,7 +75,7 @@ function showMessage(response) {
     yesMessage.textContent = "YOU SAID YES, ROCKYYY!!!";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/VALENTINEGIFTT.jpeg";
+    document.getElementsByClassName("image")[0].src = "images/VALENTINEGIFTT.jpg";
 
     // Remove the "Yes" button
     document.getElementById("yesButton").remove();
